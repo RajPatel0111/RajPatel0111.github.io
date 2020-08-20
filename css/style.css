@@ -13,6 +13,7 @@
 * ======================================================= */
 .dev-icons{
   font-size: 6rem;
+  text-align:center;
 }
 
 label {
@@ -24,12 +25,12 @@ form{
 }
 
 .boxed{
-height: 45px;
-width: 38%;
+height: 35px;
+width: 35%;
 border: 3px solid gray ;
 background-color:rgba(235, 15, 26, 0.301);
 text-align: center;
-vertical-align: middle;
+margin: 0 auto;
 }
 
 .btn {
