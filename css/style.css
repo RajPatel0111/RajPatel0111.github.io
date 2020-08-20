@@ -24,10 +24,11 @@ form{
 }
 
 .boxed{
-height: 35px;
-width: 20%;
+height: 38px;
+width: 35%;
 border: 3px solid gray ;
 background-color:silver
+
 }
 
 .btn {
@@ -72,7 +73,7 @@ input, textarea {
 
 
 body {
-  font-family: "Quicksand", Arial, sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   font-size: 15px;
   line-height: 1.8;
@@ -109,7 +110,7 @@ a {
 p {
   margin-bottom: 1.5em;
     color: black;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Poppins", sans-serif;
 }
 x{
     margin-bottom: 1.5em;
@@ -122,18 +123,19 @@ h1, h4, h5, h6 {
   color: #000;
   font-family: "Poppins", sans-serif;
   font-weight: 700;
+  font-size: 15px;
   margin: 0 0 30px 0; }
 
 h2{
     color: #000;
-  font-family: "Playfair Display", Georgia, serif;
-  font-weight: 200;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
   margin: 0 0 20px 0;
 }
 h3{
     color: #000;
-  font-family: "Playfair Display", Georgia, serif;
-  font-weight: 200;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
   margin: 0 0 30px 0;
 }
 
@@ -147,7 +149,7 @@ figure {
     margin: 20px auto 0px auto;
     color: #b3b3b3;
     font-style: italic;
-    font-family: "Quicksand", Arial, sans-serif; }
+    font-family: "Poppins", Arial, sans-serif; }
     @media screen and (max-width: 480px) {
       figure figcaption {
         width: 100%; } }
@@ -194,7 +196,7 @@ figure {
       } }
   #colorlib-aside .author-img {
     width: 200px;
-    height: 250px;
+    height: 200px;
     margin: 0 auto;
     margin-bottom: 30px;
     -webkit-border-radius: 50%;
@@ -204,7 +206,7 @@ figure {
     border: 3px solid rgb(2, 0, 0);}
 #colorlib-aside h1{
     color: #000;
-  font-family: 'Raleway', sans-serif;
+  font-family: Arial, "Helvetica", sans-serif;
 }
   #colorlib-aside .position {
     display: block;
@@ -316,7 +318,7 @@ figure {
           padding: 4px; }
 #colorlib-aside .colorlib-footer h3 a
 {
-    color: #FF722C;
+    color: #0e0500;
     font-size: 18px;
 }
 #rcorners2 {
@@ -573,7 +575,8 @@ margin-left: 10px;}
   font-size: 18px;
   text-transform: uppercase;
   letter-spacing: 5px;
-  font-weight: 500; }
+  font-weight: 500;
+ }
 
 .about-desc h1 {
   font-size: 38px;
@@ -582,7 +585,7 @@ font-family: "Montserrat", Georgia, serif;}
 
 .hire {
   padding: 2em;
-  background: #f9bf3f; }
+  background: #061dec63; }
   .hire h2 {
     line-height: 1.5; }
   .hire .btn-hire {
@@ -595,7 +598,7 @@ font-family: "Montserrat", Georgia, serif;}
 .fancy-collapse-panel .panel-default > .panel-heading {
   padding: 0; }
 
-<!-----projectcss------------>
+
 #projects {
   padding: 50px 15px;
   border-bottom: 1px solid #dcd9d9;
@@ -726,7 +729,7 @@ font-family: "Montserrat", Georgia, serif;}
   position: absolute;
   display: block;
   width: 4px;
-  background: #f9bf3f;
+  background: #061dec63;
   top: 20px;
   bottom: 20px;
   margin-left: 29px; }
@@ -775,7 +778,7 @@ font-family: "Montserrat", Georgia, serif;}
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label {
   position: relative;
-  background: #f9bf3f;
+  background: #061dec63;
   padding: 1.5em;
   margin-left: 60px;
   -webkit-background-clip: padding-box;
