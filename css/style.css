@@ -45,11 +45,16 @@ margin: 0 auto;
 .btn {
   background-image: linear-gradient(
     to right,
-    #bfefff,
-    #8dd2f3,
-    #5fb4e8,
-    #3594dc,
-    #1874cd
+    #EDC4B3,
+    #E6B8A2,
+    #DEAB90,
+    #D69F7E,
+    #CD9777,
+    #C38E70,
+    #B07D62,
+    #9D6B53,
+    #8A5A44,
+    #774936
   );
 }
 
@@ -587,7 +592,7 @@ font-family: "Montserrat", Georgia, serif;}
 
 .hire {
   padding: 2em;
-  background: #061dec63; }
+  background: #9806ec63; }
   .hire h2 {
     line-height: 1.5; }
   .hire .btn-hire {
