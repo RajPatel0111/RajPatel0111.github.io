@@ -28,7 +28,7 @@ form{
 height: 35px;
 width: 35%;
 border: 3px solid gray ;
-background-color:rgba(5, 5, 5, 0.493);
+background-color: #9f86c0;
 text-align: center;
 margin: 0 auto;
 }
@@ -105,12 +105,12 @@ canvas {
 }
 
 a {
-  color: #2c98f0;
+  color: #064b79ea;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
   a:hover, a:active, a:focus {
-    color: #2c98f0;
+    color: #03800d;
     outline: none;
     text-decoration: none !important; }
 
@@ -185,14 +185,7 @@ figure {
   width: 300px;
   position: fixed;
   z-index: 1001;
-    background-image: linear-gradient(
-      to bottom,
-     #ddd8c4,
-     #a3c9a8,
-     #84b59f,
-     #69a297,
-     #50808e
-    );
+    background-color: #9ea3b0;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
@@ -343,7 +336,7 @@ figure {
   height: 40px; 
 }
         #colorlib-aside .colorlib-footer ul li a {
-          color: rgba(255, 255, 255, 0.3);
+          color: #898980;
           padding: 4px; }
           #colorlib-aside .colorlib-footer ul li a:hover, #colorlib-aside .colorlib-footer ul li a:active, #colorlib-aside .colorlib-footer ul li a:focus {
             text-decoration: none;
@@ -599,7 +592,7 @@ font-family: "Montserrat", Georgia, serif;}
 
 .hire {
   padding: 2em;
-  background: #9806ec63; }
+  background: #8c7a6b; }
   .hire h2 {
     line-height: 1.5; }
   .hire .btn-hire {
