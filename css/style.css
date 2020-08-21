@@ -28,7 +28,7 @@ form{
 height: 35px;
 width: 35%;
 border: 3px solid gray ;
-background-color:rgba(235, 15, 26, 0.301);
+background-color:rgba(5, 5, 5, 0.493);
 text-align: center;
 margin: 0 auto;
 }
@@ -84,7 +84,7 @@ body {
   font-weight: 400;
   font-size: 15px;
   line-height: 1.8;
-  color: rgba(0, 0, 0, 0.7); }
+  color: rgba(10, 10, 10, 0.7); }
   @media screen and (max-width: 992px) {
     body {
       font-size: 16px; } 
@@ -185,7 +185,14 @@ figure {
   width: 300px;
   position: fixed;
   z-index: 1001;
-    background-color: #07050067;
+    background-image: linear-gradient(
+      to bottom,
+     #ddd8c4,
+     #a3c9a8,
+     #84b59f,
+     #69a297,
+     #50808e
+    );
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
