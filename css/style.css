@@ -198,7 +198,7 @@ figure {
       -o-transform: translateX(-300px);
       transform: translateX(-300px);
       padding-top: 4em;
-	    background-color: #f9bf3f;
+	    background-color: #9ea3b0;
         height: auto;
       } }
   #colorlib-aside .author-img {
@@ -268,7 +268,7 @@ figure {
             bottom: 7px;
             left: 0;
             right: 0;
-            background-color: #f06a2c;
+            background-color: #9ea3b0;
             visibility: hidden;
             -webkit-transform: scaleX(0);
             -moz-transform: scaleX(0);
@@ -479,7 +479,7 @@ body.offcanvas {
     -o-transform: translateX(0);
     transform: translateX(0);
     width: 300px;
-    background-color: #f9bf3f;
+    background-color: #9ea3b0;
     z-index: 999;
     position: fixed; }
   body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
