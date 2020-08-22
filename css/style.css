@@ -66,7 +66,7 @@ margin: 0 auto;
   background-color: #B22222;
   height: 30px;
   width: 20%;
-  color: #FFFFFF;
+  color: #df7373;
   font-weight: bold;
 }
 
@@ -202,15 +202,15 @@ figure {
         height: auto;
       } }
   #colorlib-aside .author-img {
-    width: 200px;
-    height: 200px;
+    width: 175px;
+    height: 175px;
     margin: 0 auto;
     margin-bottom: 30px;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
-    border-radius: 50%;
-    border: 3px solid rgb(2, 0, 0);}
+    border-radius: 100%;
+    border: 5px solid rgb(2, 0, 0);}
 #colorlib-aside h1{
     color: #000;
   font-family: Arial, "Helvetica", sans-serif;
@@ -778,7 +778,7 @@ font-family: "Montserrat", Georgia, serif;}
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-5 {
     background: #2fa499; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-none {
-    background: #fff;
+    background: rgb(255, 255, 255);
     width: 20px;
     height: 20px;
     margin-left: 10px; }
